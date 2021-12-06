@@ -6,7 +6,7 @@
 
 Git gebruikt een versiebeheersysteem om alle wijzigingen die in het project zijn aangebracht bij te houden en op te slaan in de repository. Gebruikers kunnen vervolgens bestaande repositories verwijderen of kopiëren of nieuwe maken voor lopende projecten)
 
-**-	Main / Master**
+**-	Main / Master**Main/master is de origin branch, meestal werkten teamleden in andere branches en niet direct in de main branch
 **-	Branch
 **-	Commit**
 **-	Push / Pull**
