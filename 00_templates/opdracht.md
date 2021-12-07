@@ -17,7 +17,7 @@ Met het git push commando kun je alle commits en bestanden in de huidige reposit
 [https://phoenixnap.com/kb/what-is-a-git-repository]
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+[Ik moet nog onderzoeken hoe Push/Pull/Merge en andere commando's werken in git-bash CLI.]
 
 ### Resultaat
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
